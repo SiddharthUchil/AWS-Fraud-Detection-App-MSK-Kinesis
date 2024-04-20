@@ -1,5 +1,10 @@
 # Real-Time Fraud Detection with AWS
 
+
+
+https://github.com/SiddharthUchil/AWS-Fraud-Detection-App-MSK-Kinesis/assets/36127139/7293b2dc-419a-4462-8389-aee8bb001b18
+
+
 ## Project Overview
 This project implements a real-time fraud detection system using Amazon Web Services (AWS). It leverages AWS Managed Streaming for Kafka (MSK) and AWS Kinesis Data Analytics to process and analyze streaming data for potential fraudulent activities. The system uses a CloudFormation template to provision necessary AWS resources and configures them via the AWS Console. A Lambda function is employed to send data to a Kafka topic, which is then processed by Kinesis Data Analytics. Flagged transactions are subsequently stored in DynamoDB for further action.
 
