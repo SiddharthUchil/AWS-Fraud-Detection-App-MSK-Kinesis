@@ -1,5 +1,6 @@
 # Real-Time Fraud Detection with AWS
 
+![vilt](https://github.com/SiddharthUchil/AWS-Fraud-Detection-MSK-Kinesis/assets/36127139/52acb605-ac2d-49a7-95e9-671920456335)
 
 
 https://github.com/SiddharthUchil/AWS-Fraud-Detection-App-MSK-Kinesis/assets/36127139/7293b2dc-419a-4462-8389-aee8bb001b18
